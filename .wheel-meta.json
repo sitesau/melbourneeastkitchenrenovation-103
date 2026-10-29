@@ -1,0 +1,22 @@
+{
+  "wheel_id": 496,
+  "structure": "umbrella",
+  "slug": "melbourneeastkitchenrenovation-103",
+  "project": "kitchen-renovations-eastern-melbourne-how-to-choose-d7e064c5dc9",
+  "parent_t1_ref": "melbourneeastkitchenrenovation-151",
+  "node_role": "feeder",
+  "money_target": "melbourneeastkitchenrenovation.com.au",
+  "primary_kw": "kitchen renovations eastern melbourne how to choose",
+  "intended_url": "https://sitesau.github.io/melbourneeastkitchenrenovation-103/",
+  "tier": "T2",
+  "writeback_nonce": "c05dd101587eb9b9",
+  "links": [
+    {
+      "target_url": "https://vercel-cloudsites-hub.vercel.app/sites-01/kitchen-renovations-eastern-melbourne-cost-guide-9f37695e861/",
+      "anchor": "kitchen renovations eastern melbourne cost guide",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "exact"
+    }
+  ]
+}
